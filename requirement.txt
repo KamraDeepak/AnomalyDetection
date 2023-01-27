@@ -1,0 +1,8 @@
+Flask
+tensorflow
+alibi_detect
+numpy
+matplotlib
+PIL
+cv2
+os
